@@ -9,6 +9,8 @@
 
 Este repositório foi desenvolvido como parte de um **Desafio de Projeto da Digital Innovation One — DIO**.
 
+https://notebooklm.google.com/notebook/1053956f-6e6c-4721-89e0-0887d9464960
+
 O objetivo do desafio foi utilizar o **NotebookLM** como ferramenta de aprendizagem ativa, reunindo fontes acadêmicas sobre um tema específico e empregando Inteligência Artificial para comparar informações, produzir resumos, esclarecer conceitos e organizar o conhecimento.
 
 O assunto escolhido para o caderno temático foi:
